@@ -23,7 +23,7 @@ window.FRUS_VOLUME = {
     "Balkans",
     "1993-1995"
   ],
-  "nara_scout_url": "https://therealjameswilson.github.io/nara-scout/#q=Wars+OR+Balkans+OR+1993-1995&from=1993&to=2000&sort=relevance&perColl=25&perPage=50",
+  "nara_scout_url": "https://therealjameswilson.github.io/nara-scout/#q=Wars+OR+Balkans+OR+1993-1995&from=1993&to=1995&sort=relevance&perColl=25&perPage=50",
   "nara_catalog_url": "https://catalog.archives.gov/search?q=Wars%20OR%20Balkans%20OR%201993-1995",
   "companion": [
     "Balkans companion workbench",
