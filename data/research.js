@@ -116,6 +116,22 @@ window.FRUS_RESEARCH = {
       "category": "Document-level review",
       "use": "Reviewed 345 distinct release records in case M-2013-12509: 284 dated 1993–1995 leads, 31 later context records and 30 date/content verification leads. The dated leads include 277 substantive records and 7 reference items; relay copies remain distinct. These counts are not a selection tally. The broader 1,435-record release was not imported wholesale.",
       "status": "Pending compiler review"
+    },
+    {
+      "id": "source-foia-M-2017-11839-C09000001",
+      "label": "October 30, 2026 State FOIA release — C09000001",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; physical-page links and extracted text are shown in the supplementary release lead panel.",
+      "status": "Released"
+    },
+    {
+      "id": "source-foia-M-2017-11839-C09000002",
+      "label": "October 30, 2026 State FOIA release — C09000002",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000002/C09000002.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; physical-page links and extracted text are shown in the supplementary release lead panel.",
+      "status": "Released"
     }
   ],
   "document_candidates": [
@@ -7357,6 +7373,122 @@ window.FRUS_RESEARCH = {
         "Invitations do not establish attendance or views; no need to reproduce addresses/phones.",
         "Recovered page text may contain OCR errors; source facsimile has not been independently verified.",
         "Compare the source facsimile, original classification and handling, drafting/clearance, distribution, annotations, attachments and excisions before finalizing a FRUS source note. No archival box or folder has been inferred."
+      ]
+    },
+    {
+      "id": "foia-2026-10-M-2017-11839-C09000001",
+      "title": "TALBOTT/MCCAFFREY BOSNIA CONSULTATIONS IN MOSCOW, MAY 7-8: BOTTOM LINE",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-M-2017-11839-C09000001",
+      "date": "1993-05-08",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "Directly documents U.S.–Russian deliberations over Bosnia policy, further UN Security Council action, the arms embargo, possible use of force, and presidential/ministerial contacts during the 1993 Bosnia crisis.",
+      "caseNumber": "M-2017-11839",
+      "documentId": "C09000001",
+      "collection": "FOIA_M_Oct2026",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "Historical contact/cable date: 1993-05-08. The Oct. 30, 2026 date is the release posting date.",
+      "documentType": "Telegram",
+      "sender": "Embassy Moscow",
+      "messageNumber": "1993 MOSCOW 013590",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf",
+      "pageCount": 5,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000001/C09000001.pdf#page=5"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Moscow, telegram 1993 MOSCOW 013590, “TALBOTT/MCCAFFREY BOSNIA CONSULTATIONS IN MOSCOW, MAY 7-8: BOTTOM LINE,” 1993-05-08, FOIA Library, case M-2017-11839, document C09000001, source PDF, pp. 1–5.",
+      "summary": "Ambassador Talbott and Lt. Gen. McCaffrey report their May 7–8 Moscow consultations. Russian officials opposed near-term Security Council action authorizing additional force and rejected lifting the arms embargo, while discussing possible post-referendum options and close U.S.–Russian consultation.",
+      "relevance": "Directly documents U.S.–Russian deliberations over Bosnia policy, further UN Security Council action, the arms embargo, possible use of force, and presidential/ministerial contacts during the 1993 Bosnia crisis.",
+      "textStatus": "Searchable local extracted PDF text; not independently verified against the source facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351423      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n                 SECRET\n      PAGE 01   MOSCOW 13590 01 OF 02 081204Z           RELEASE IN FULL\n      ACTION NODS-00\n\n       INFO LOG-00 CCO-00 CCOE-00 ADS-00  /000W\n                        BD2A45 081204Z /38\n     O 081152Z MAY 93 ZFF4\n      FM AMEMBASSY MOSCOW\n      TO SECSTATE WASHDC NIACT IMMEDIATE 2312\n\n      S E C R E T SECTION 01 OF 02 MOSCOW 013590\n\n\n      NODIS\n\n        S/S PLEASE PASS IMMEDIATELY TO WHITE HOUSE FOR\n      NSC (LAKE, BERGER)\n\n        E.O. 12356: DECL:OADR\n       TAGS: PREL, MOPS, UNSC, BK, RS, US\n       SUBJECT: TALBOTT/MCCAFFREY BOSNIA CONSULTATIONS IN\n          MOSCOW, MAY 7-8: BOTTOM LINE\n\n       REF: MOSCOW 13287\n\n          1. (SECRET--ENTIRE TEXT.)\n\n          2. SUMMARY. THE RUSSIANS ARE DETERMINED TO WAIT\n             OUT THE MAY 15-16 REFERENDUM RESULTS\n      BEFORE AGREEING TO FURTHER UNSC RESOLUTIONS\n      AUTHORIZING ADDITIONAL USE OF FORCE. IF PRESSED NEXT\n      WEEK, THEY WILL STALL. IF PRESSED HARD NEXT WEEK,\n      THEY WILL VETO. THEY EXPECT A NEGATIVE VOTE IN THE\n                 SECRET\n\n\n                 SECRET\n\n      PAGE 02   MOSCOW 13590 01 OF 02 081204Z\n      REFERENDUM, BUT KOZYREV BELIEVES A UNSC DECISION NEXT\n      WEEK AUTHORIZING USE OF FORCE AFTER THE REFERENDUM\n     WOULD CAUSE A SERBIAN SURGE. THE RUSSIANS WILL NOT\n     GO WITH LIFTING THE ARMS EMBARGO. GRACHEV'S\n       INTELLIGENCE INFORMATION CLAIMS ROUGH PARITY BETWEEN\n      BOSNIAN SERBS AND MOSLEMS. KOZYREV ARGUES THAT\n      MLADIC WOULD PERCEIVE LIFTING THE ARMS-EMBARGO AS A\n      FUNDAMENTAL CHANGE IN THE CHARACTER OF THE FIGHTING,\n      AND GO ALL-OUT. THE RUSSIANS APPEAR PREOCCUPIED WITH\n      THE QUESTION OF WHAT TO DO, AND UNCERTAIN WHETHER\n       MILITARY ACTION IS A WORSE OPTION THAN DOING\n       NOTHING. GRACHEV WAS MOST DETERMINED THAT\n      POST-REFERENDUM ACTIONS AVOID AN ANTI-SERBIAN\n      CHARACTER: PROJECTING EVENTS AFTER THE REFERENDUM,\n      HE OUTLINED AN ARTILLERY CEASEFIRE ENFORCED BY\n       AIRSTRIKES AGAINST OFFENDING SIDES. THE RUSSIANS\n                                                      REVIEW AUTHORITY:  Marvin\n                                                                          Russell, Senior Reviewer\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351423      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n      WANT CONTINUED CLOSE CONSULTATIONS. END SUMMARY.\n\n\n           3. TWO SESSIONS WITH DFM MAMEDOV AND TALKS WITH\n      KOZYREV (40 MINUTES) AND GRACHEV (2 HOURS) SUGGEST\n      THE RUSSIANS' BOTTOM LINE HAS NOT MOVED FAR FROM THE\n       \"PRELIMINARY REACTION\" TO THE BOSNIAN SERB ASSEMBLY\n      VOTE REPORTED IN REFTEL. YELTSIN HAD APPARENTLY\n       GIVEN NO FRESH GUIDANCE SINCE THE PALE VOTE, ALTHOUGH\n     MAMEDOV INDICATED SATURDAY MORNING THAT YELTSIN AND\n      MULRONEY, OVER DINNER ON FRIDAY, SWAPPED ARGUMENTS\n      AGAINST MILITARY ACTION AT THIS TIME. YELTSIN AND\n      MULRONEY ARE GIVING A PRESS CONFERENCE SATURDAY\n      AFTERNOON, AND MAMEDOV INDICATED WE MAY GET A FULLER\n      READOUT FROM THE CANADIANS.\n                 SECRET\n\n                 SECRET\n\n      PAGE 03   MOSCOW 13590 01 OF 02 081204Z\n\n          4. IN SUM, THE RUSSIANS:\n\n            -- ARE (UNSURPRISINGLY) LOOKING CAREFULLY AT THE WEST\n      EUROPEANS' POSITIONS AND HAVE IDENTIFIED NO\n       SURPRISES, EXCEPT PERHAPS THE FALL-OFF IN BRITISH\n      ENTHUSIASM FOR U.S. PROPOSALS POST-SREBRENICA.\n\n            -- ARE UNWILLING TO ENTERTAIN VOTING A FURTHER UNSC\n       RESOLUTION, AT LEAST BEFORE THE MAY 15-16 REFERENDUM,\n      WHICH AUTHORIZES ADDITIONAL USE OF FORCE.\n\n          ::THE RUSSIANS FEEL THEY NEED A REJECTION OF\n       VANCE-OWEN BY THE REFERENDUM, WHICH THEY ARE\n         FAIRLY CONFIDENT IS THE LIKELY OUTCOME, TO\n         JUSTIFY MOVING TO A FURTHER STAGE, POSSIBLY\n        INCLUDING AIR STRIKES.\n\n              ::IF WE PRESS FOR A NEW UNSC RESOLUTION BEFORE\n        THE REFERENDUM, THE RUSSIANS WILL DO EVERYTHING\n        THEY CAN TO STALL. FAILING THAT, MAMEDOV AND\n        KOLOSOVSKIY WERE PRETTY EXPLICIT THAT THE\n        RUSSIANS WOULD FEEL COMPELLED TO VETO. \"DON'T\n        PRESS A VOTE\" WAS MAMEDOV'S ADVICE SATURDAY\n        MORNING.\n\n            -- DO NOT ACCEPT THE WEIGHT OF THE ARGUMENTS FOR\n       LIFTING THE ARMS EMBARGO.\n\n          ::THE FOREIGN MINISTRY DOES NOT CONTEST OUR VIEW\n        THAT THE BOSNIAN MOSLEMS, GIVEN PRESENT TRENDS ON\n                 SECRET\n\n\n                 SECRET\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351423      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n\n      PAGE 04   MOSCOW 13590 01 OF 02 081204Z\n        THE GROUND, WILL FOLD WITHIN 90 DAYS. HOWEVER,\n        GRACHEV'S INTELLIGENCE INFORMATION CLAIMS ROUGH\n         PARITY OF FORCE LEVELS; BARRY MCCAFFREY MADE SOME\n       HEADWAY IN CHALLENGING THE GRU'S ESTIMATES. WE\n        COULD, WITH FURTHER EFFORT, TURN THIS AROUND.\n\n         ::KOZYREV STRESSED ONE THING: ARMING THE MOSLEMS\n         WILL PRECIPITATE A SERBIAN SURGE. MLADIC WILL GO\n         ALL-OUT, WITHOUT HEED FOR CASUALTIES IN THE\n        SOVIET WWII TRADITION, WHEN HE PERCEIES THAT\n         LIFTING THEARMS EMBARGO ALTERS THE CONFLICT FROM\n       A CIVIL WAR FEATURING TERROR, ETHNIC CLEANSING,\n       AND ATTRITION, TO AN ALL-OUT CONFLICT IN WHICH\n        THE BOSNIAN SERBS PULL OUT ALL THE STOPS.\n\n          ::THE FOREIGN MINISTRY (KOZYREV AND HIS POLICY\n        ADVISOR GALINA SIDOROVA) ALSO ARGUE THAT A\n\n\n                 SECRET\n\n\n\n\n\n      NNNN\n\n                 SECRET\n\n      PAGE 01   MOSCOW 13590 02 OF 02 081204Z\n      ACTION NODS-00\n\n       INFO LOG-00 CCO-00 CCOE-00 ADS-00  /000W\n                       BD2A4A 081204Z /38\n     O 081152Z MAY 93 ZFF4\n      FM AMEMBASSY MOSCOW\n      TO SECSTATE WASHDC NIACT IMMEDIATE 2313\n\n    SECRET SECTION 02 OF 02 MOSCOW 013590\n\n\n      NODIS\n\n        S/S PLEASE PASS IMMEDIATELY TO WHITE HOUSE FOR\n      NSC (LAKE, BERGER)\n\n        E.O. 12356: DECL:OADR\n       TAGS: PREL, MOPS, UNSC, BK, RS, US\n       SUBJECT: TALBOTT/MCCAFFREY BOSNIA CONSULTATIONS IN\n          MOSCOW, MAY 7-8: BOTTOM LINE\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351423      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n\n        FREEZE-FRAME APPROACH (UNSC MEETING MAY 12\n        ADOPTING A RESOLUTION WHICH TAKES EFFECT MAY 17)\n         WILL PROVOKE THE BOSNIAN SERBS TO STEP UP THE\n        PACE OF ATTACKS, NOT DETER THEM.\n\n            -- ARE UNCERTAIN WHICH IS WORSE: DOING NOTHING OR\n       LIFTING THE ARMS EMBARGO WITH COMPENSATORY AIR\n       STRIKES. OUR PREFERRED OPTION DREW EXTENSIVE \"THEN\n      WHAT?\" QUESTIONS (E.G., HOW TO STOP CROAT-MOSLEM\n       VIOLENCE) BUT THE OVERALL ISSUE OF WHAT TO DO CLEARLY\n                 SECRET\n\n\n                 SECRET\n\n      PAGE 02   MOSCOW 13590 02 OF 02 081204Z\n      HAS THE RUSSIANS' ATTENTION.\n\n            -- ARE PREPARED, BEFORE THE REFERENDUM, TO TAKE\n       ADDITIONAL STEPS WITHIN THE CURRENT POLICY MIX (E.G.,\n      TOUGH SANCTIONS ENFORCEMENT, PROPAGANDA, INTIMIDA-\n        TION, CHURKIN TO BELGRADE, INTELLIGENCE-GATHERING AND\n       SHARING). THEY ARE NOT PREPARED, BEFORE THE\n      REFERENDUM, TO TAKE DECISIONS ON A NEW PLAN OF ACTION.\n\n            -- WOULD CONSIDER MOVING TO CAREFULLY DEFINED USE OF\n      FORCE AFTER REJECTION OF VANCE-OWEN IN THE REFERENDUM.\n\n         ::HOWEVER, THE RUSSIANS--GRACHEV WAS CLEAREST ON\n         THIS--ARE DETERMINED THAT FORWARD MOVEMENT ON USE\n        OF FORCE NOT TAKE AN ANTI-SERB CHARACTER. ANY\n       UNSC RESOLUTION ON USE OF FORCE WOULD HAVE TO BE\n         \"EVEN-HANDED.\"\n\n         ::GRACHEV, ON A PERSONAL BASIS, OUTLINED AN\n         ARTILLERY CEASEFIRE ENFORCED BY AIR STRIKES\n        AGAINST ARTILLERY OF ANY OFFENDING SIDE OR SIDES.\n\n            -- WANT CLOSE CONSULTATIONS: A CLINTON/YELTSIN PHONE\n      PRECEDED BY A CHRISTOPHER/KOZYREV PHONE CALL. THE\n      RUSSIANS WANT CLEAR, ADVANCE NOTICE OF ANY U.S.\n       DECISIONS BEFORE THEY ARE ANNOUNCED PUBLICLY.\n\n          4. AMB. TALBOTT AND LTG. MCCAFFREY HAVE CLEARED THIS\n      MESSAGE. COLLINS\n\n\n                 SECRET\n\n\n                 SECRET\n\n      PAGE 03   MOSCOW 13590 02 OF 02 081204Z\n                 SECRET\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018\n\nM-2017-11839 B-00001351423 “UNCLASSIFIED” 7/8/2026\n\nNNNN\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551501 Date: 05/23/2018"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-M-2017-11839-C09000002",
+      "title": "SECRETARY'S CONVERSATION WITH RUSSIAN FOREIGN MINISTER KOZYREV",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-M-2017-11839-C09000002",
+      "date": "1993-05-07",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "This short policy memorandum directly connects senior U.S.–Russian consultations to the administration's Bosnia options and the next Security Council steps; it is a relevant companion lead for the volume's 1993 Bosnia chronology.",
+      "caseNumber": "M-2017-11839",
+      "documentId": "C09000002",
+      "collection": "FOIA_M_Oct2026",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "Historical contact/cable date: 1993-05-07. The Oct. 30, 2026 date is the release posting date.",
+      "documentType": "Memorandum of Conversation (draft)",
+      "sender": "Secretary of State",
+      "messageNumber": "1993 STATE 140322",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000002/C09000002.pdf",
+      "pageCount": 2,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000002/C09000002.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11839/DOC_0C09000002/C09000002.pdf#page=2"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Secretary of State, memorandum of conversation (draft) 1993 STATE 140322, “SECRETARY'S CONVERSATION WITH RUSSIAN FOREIGN MINISTER KOZYREV,” 1993-05-07, FOIA Library, case M-2017-11839, document C09000002, source PDF, pp. 1–2.",
+      "summary": "A draft memorandum of the Secretary's May 7, 1993 conversation with Foreign Minister Kozyrev discusses advancing a U.S. option on Bosnia, Talbott and McCaffrey's Moscow consultations, a possible UN Security Council ministerial, and timing a Clinton–Yeltsin call.",
+      "relevance": "This short policy memorandum directly connects senior U.S.–Russian consultations to the administration's Bosnia options and the next Security Council steps; it is a relevant companion lead for the volume's 1993 Bosnia chronology.",
+      "textStatus": "Searchable local extracted PDF text; not independently verified against the source facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551502 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351445      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n                 SECRET                                       RELEASE IN FULL\n\n      PAGE 01   STATE  140322 071713Z\n       ORIGIN NODS-00\n\n       INFO LOG-00 CCO-00 ADS-00   /000R\n\n      DRAFTED BY: S/S-O: GCKEISER\n      APPROVED BY: S/S:MGROSSMAN\n       S/S-O:JMJONES\n      DESIRED DISTRIBUTION:\n      TOS S SS SSO\n                       BCDA8F 071714Z/38\n     O 071713Z MAY 93 ZFF6\n      FM SECSTATE WASHDC\n      TO USDEL SECRETARY AIRCRAFT NIACT IMMEDIATE\n\n      S E C R E T STATE 140322 TOSEC 080406\n\n\n      NODIS\n\n      EYES ONLY FOR THE SECRETARY\n        E.O. 12356: DECL:OADR\n       TAGS: PREL, PGOV\n       SUBJECT: SECRETARY'S CONVERSATION WITH RUSSIAN FOREIGN\n       MINISTER KOZYREV\n\n          1. FROM EXECUTIVE SECRETARY MARC GROSSMAN TO THE\n      SECRETARY: BELOW IS A DRAFT MEMCON OF YOUR CONVERSATION\n     ON MAY 7 WITH FOREIGN MINISTER KOZYREV. AFTER YOU HAVE\n      NOTED ANY CHANGES YOU WANT MADE, PLEASE HAVE YOUR STAFF\n      RETURN THIS TO ME FOR CORRECTION AND DISTRIBUTION.\n                 SECRET\n\n\n                 SECRET\n\n      PAGE 02    STATE  140322 071713Z\n\n          2. BEGIN TEXT:\n\n\n      THE SECRETARY TOLD KOZYREV THAT AMBASSADOR TALBOTT AND\n      GENERAL MCCAFFREY WOULD BE RETURNING TO MOSCOW ON\n      MAY 7. HE ASKED KOZYREV TO SEE THEM AND SAID PRESIDENT\n      CLINTON BELIEVED EFFORTS SHOULD BE INTENSIFIED ON THE\n      SECOND OPTION THE SECRETARY AND THE FM HAD DISCUSSED\n       EARLIER. AMBASSADOR TALBOTT WOULD ELABORATE. THE\n      SECRETARY INDICATED HE WAS RECEIVING SOME SUPPORT AND\n       SAID CAREFUL COORDINATION WAS IMPORTANT.\n\n      KOZYREV AGREED TO MEET WITH AMBASSADOR TALBOTT AND\n      INFORMED THE SECRETARY HE HAD SPOKEN WITH FM JUPPE\n\n\n                                                           REVIEW AUTHORITY:  Marvin\n                                                                                Russell, Senior Reviewer\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551502 Date: 05/23/2018"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551502 Date: 05/23/2018\n\n                                       M-2017-11839    B-00001351445      \"UNCLASSIFIED\"       7/8/2026\n\n\n\n      SEVERAL TIMES ON MAY 6. KOZYREV COMMENTED THESE\n      CONVERSATIONS WERE NOT PARTICULARLY ENCOURAGING AND SAID\n         IT SEEMED THERE IS NOT YET A PRACTICAL PLAN OF ACTION.\n\n      THE SECRETARY REITERATED HE SAW A CONVERGENCE AROUND THE\n      SECOND OPTION AND SAID HE BELIEVED A MINISTERIAL LEVEL\n      MEETING OF THE UN SECURITY COUNCIL WOULD BE NECESSARY\n      SOON. HE ALSO NOTED PRESIDENT CLINTON WOULD LIKE TO\n       CALL PRESIDENT YELTSIN, BUT THIS SHOULD BE DELAYED UNTIL\n      THINGS ARE PREPARED BETTER.\n\n\n      KOZYREV SUGGESTED THAT PERHAPS THE AFTERNOON OF MAY 8\n     WOULD BE AN APPROPRIATE TIME FOR THE CALL. THE\n      SECRETARY SAID PRESIDENT CLINTON HAD NOT CHANGED HIS\n                 SECRET\n\n                 SECRET\n\n      PAGE 03   STATE  140322 071713Z\n      MIND AND SOME OF THE DIFFICULT QUESTIONS CAN NO LONGER\n      BE POSTPONED. KOZYREV SAID THE PROBLEM WAS DEFINING\n       SPECIFICS AND QUESTIONED THE PRACTICAL OUTCOME. HE SAID\n     SOME OF THE OPTIONS ARE MISLEADING AND THAT HE AND JUPPE\n      HAD DISCOUNTED ONE OF THEM. HE SAID JUPPE IS TOTALLY\n      AGAINST IT. KOZYREV ALSO SAID JUPPE'S FEELINGS WERE\n       SIMILAR TO HIS OWN, BUT SAID HE WOULD NOT DWELL ON THIS\n      NOW. HE ALSO MENTIONED THE POSSIBILITY OF A MINISTERIAL\n      MEETING SOMEWHERE IN EUROPE. THE SECRETARY AGREED TO BE\n        IN TOUCH SOON.\n\n\n\n      TARNOFF\n\n\n                 SECRET\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2017-11839 Doc No. C06551502 Date: 05/23/2018"
+        }
       ]
     }
   ],
