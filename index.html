@@ -119,6 +119,14 @@
   </header>
   <main id="top">
 <section id="october-release" data-october-review aria-label="October 2026 release documentary review"><h2>October 30, 2026 release</h2><p>Loading documentary leads. <a href="data/october-2026-review.json">Download review data</a>.</p></section>
+    <section id="october-supplemental" data-october-supplemental aria-label="Additional October 30 State FOIA leads" style="max-width:1100px;margin:1.5rem auto;padding:1rem 1.25rem;border:1px solid #cbd5e1;border-radius:12px;background:#fff;">
+      <h2>Additional cross-case Bosnia leads</h2>
+      <p>Two primary-source leads from separate State FOIA case M-2017-11839. They are outside the 345-record M-2013-12509 Balkans review and are counted separately. Searchable extracted text is not facsimile-verified; selection is pending.</p>
+      <label for="october-supplemental-search">Search these release leads</label>
+      <input id="october-supplemental-search" type="search" placeholder="Bosnia, Kozyrev, Security Council, arms embargo…" style="display:block;width:100%;max-width:42rem;padding:.7rem;margin:.5rem 0;border:1px solid #94a3b8;border-radius:8px;font:inherit;">
+      <p id="october-supplemental-count" aria-live="polite"></p>
+      <div id="october-supplemental-list"></div>
+    </section>
     <section class="hero">
       <div class="hero-inner">
         <div>
@@ -212,6 +220,7 @@
   <script src="data/volume.js?v=20261031"></script>
   <script src="data/research.js?v=20261031"></script>
   <script src="app.js?v=20261031"></script>
+  <script src="october-supplemental.js?v=20261101"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
